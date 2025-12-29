@@ -1,0 +1,50 @@
+[
+  {
+    "domain": "food",
+    "evidence_span": "Dinner: paneer bhurji + 2 rotis",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "unknown",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "symptom",
+    "evidence_span": "I got super sleepy",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "high",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "symptom",
+    "evidence_span": "stomach felt bloated",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "medium",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "emotion",
+    "evidence_span": "felt calm and grateful",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "uncertain",
+    "arousal_bucket": "low"
+  },
+  {
+    "domain": "mind",
+    "evidence_span": "Brain felt clear, focused while reading",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "low",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "emotion",
+    "evidence_span": "Mood was actually good\u2014felt calm and grateful",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "uncertain",
+    "arousal_bucket": "uncertain"
+  }
+]
