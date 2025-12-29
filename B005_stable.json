@@ -1,0 +1,42 @@
+[
+  {
+    "domain": "food",
+    "evidence_span": "ate biryani (small bowl) + raita",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "unknown",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "symptom",
+    "evidence_span": "Felt heartburn after that",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "medium",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "symptom",
+    "evidence_span": "a slight nausea",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "low",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "emotion",
+    "evidence_span": "irritated + impatient",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "uncertain",
+    "arousal_bucket": "high"
+  },
+  {
+    "domain": "mind",
+    "evidence_span": "racing thoughts at night",
+    "polarity": "present",
+    "time_bucket": "last_night",
+    "intensity_bucket": "high",
+    "arousal_bucket": "uncertain"
+  }
+]
