@@ -1,0 +1,50 @@
+[
+  {
+    "domain": "food",
+    "evidence_span": "oats with banana and walnuts",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "unknown",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "symptom",
+    "evidence_span": "mild joint soreness in my knees",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "low",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "mind",
+    "evidence_span": "ruminating about work; couldn't stop replaying a conversation",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "uncertain",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "symptom",
+    "evidence_span": "Felt low-energy",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "medium",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "emotion",
+    "evidence_span": "but not sad",
+    "polarity": "absent",
+    "time_bucket": "today",
+    "intensity_bucket": "uncertain",
+    "arousal_bucket": "low"
+  },
+  {
+    "domain": "mind",
+    "evidence_span": "couldn't stop replaying a conversation",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "high",
+    "arousal_bucket": "uncertain"
+  }
+]
