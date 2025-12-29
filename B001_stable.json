@@ -1,0 +1,42 @@
+[
+  {
+    "domain": "symptom",
+    "evidence_span": "dull headache behind my eyes",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "medium",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "food",
+    "evidence_span": "masala chai with 2 tsp sugar",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "unknown",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "food",
+    "evidence_span": "Lunch was rice + dal + achar",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "unknown",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "emotion",
+    "evidence_span": "a bit edgy, snapping at people for no reason",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "uncertain",
+    "arousal_bucket": "high"
+  },
+  {
+    "domain": "mind",
+    "evidence_span": "mind felt scattered\u2014kept forgetting what I opened the laptop for",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "medium",
+    "arousal_bucket": "uncertain"
+  }
+]
