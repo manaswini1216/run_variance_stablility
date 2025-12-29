@@ -1,0 +1,42 @@
+[
+  {
+    "domain": "mind",
+    "evidence_span": "3am ko uthi, phir 30 min tak aankh hi nahi lagi",
+    "polarity": "present",
+    "time_bucket": "last_night",
+    "intensity_bucket": "medium",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "food",
+    "evidence_span": "coffee pi and skipped breakfast",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "unknown",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "emotion",
+    "evidence_span": "Feeling anxious in chest",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "uncertain",
+    "arousal_bucket": "high"
+  },
+  {
+    "domain": "symptom",
+    "evidence_span": "like tightness",
+    "polarity": "present",
+    "time_bucket": "today",
+    "intensity_bucket": "medium",
+    "arousal_bucket": "uncertain"
+  },
+  {
+    "domain": "symptom",
+    "evidence_span": "No cramps today though",
+    "polarity": "absent",
+    "time_bucket": "today",
+    "intensity_bucket": "unknown",
+    "arousal_bucket": "uncertain"
+  }
+]
